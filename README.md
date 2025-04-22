@@ -380,7 +380,7 @@ Lcd_string(&lcd, "32");
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2025-04-09 112110](https://github.com/user-attachments/assets/1e3bf6eb-b74d-467d-8c63-6c798726b8cc)
+![image](https://github.com/user-attachments/assets/dc6cfd09-c00d-4537-8fd2-c274159c9324)
 
 
  
@@ -395,10 +395,3 @@ Interfacing a lcd display with ARM microcontroller are simulated in proteus and 
 
 
  
-## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![Screenshot 2024-09-20 132751](https://github.com/user-attachments/assets/72985ee9-d7eb-4e8b-82a0-0c6738d69956)
-
- 
-## Result :
-Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
-
